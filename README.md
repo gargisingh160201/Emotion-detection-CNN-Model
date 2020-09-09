@@ -15,6 +15,6 @@ Run the flask file.
  
 open the local server : localhost:5000/
 
-To start the demo, click on Start Live Demo button.
+
 
 
